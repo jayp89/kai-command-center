@@ -1,0 +1,14 @@
+# node
+node_modules/
+
+# Obsidian plugin generated files
+main.js
+*.map
+
+# Editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
