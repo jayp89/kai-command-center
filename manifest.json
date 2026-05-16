@@ -3,7 +3,7 @@
 	"name": "KAI Command Center",
 	"version": "2.0.0",
 	"minAppVersion": "1.4.11",
-	"description": "A locally-run dashboard plugin for the KAI Obsidian OS.",
+	"description": "A locally-run dashboard plugin for the KAI Vault OS.",
 	"author": "Jason Peters",
 	"authorUrl": "https://jasonpeters-ton.etnecosystem.org/",
 	"isDesktopOnly": false
