@@ -1,7 +1,7 @@
 {
 	"id": "kai-command-center",
 	"name": "KAI Command Center",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"minAppVersion": "1.4.11",
 	"description": "A locally-run dashboard plugin for the KAI Vault OS.",
 	"author": "Jason Peters",
