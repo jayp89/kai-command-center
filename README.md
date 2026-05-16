@@ -2,7 +2,7 @@
 
 This plugin is meant to work with an Obsidian vault using Gemini CLI if you want to download the it is linked below [Kaymina-Obsidien Vault](https://github.com/jayp89/Kaymina-Obsidien)
 
-# KAI Command Center v2.0 — Install Guide
+# KAI Command Center 2.0 — Install Guide
 
 ## What's new in v2.0
 - **Overview tab** — ONE Thing, tasks, schedule, metrics, wins, blockers at a glance
