@@ -1,3 +1,7 @@
+# Kaymina AI (KAI) Command Center
+
+This plugin is meant to work with an Obsidian vault using Gemini CLI if you want to download the it is linked below
+
 # KAI Command Center v2.0 — Install Guide
 
 ## What's new in v2.0
