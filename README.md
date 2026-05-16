@@ -2,9 +2,9 @@
 
 This plugin is meant to work with an vault using Gemini CLI if you want to download the it is linked below [Kaymina-OS Vault](https://github.com/jayp89/Kaymina-Obsidien)
 
-# KAI Command Center 2.0.1 — Install Guide
+# KAI Command Center 2.0.2 — Install Guide
 
-## What's new in v2.0.1
+## What's new in v2.0.2
 - **Overview tab** — ONE Thing, tasks, schedule, metrics, wins, blockers at a glance
 - **Focus tab** — Full focus block: ONE Thing, priorities, frogs, tasks, quick wins, reflection
 - **Schedule tab** — Full timeline view with colour-coded category tags (Content / Admin / Deep Work / Meeting)
