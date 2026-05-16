@@ -1,0 +1,10 @@
+{
+	"id": "kai-command-center",
+	"name": "KAI Command Center",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.11",
+	"description": "A premium, locally-run dashboard plugin for the KAI Obsidian OS.",
+	"author": "Jason Peters",
+	"authorUrl": "https://jasonpeters-ton.etnecosystem.org/",
+	"isDesktopOnly": false
+}
